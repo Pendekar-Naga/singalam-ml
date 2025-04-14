@@ -52,10 +52,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 `flask run`
 
 ## Development Features
-✅ Express.js Framework – Lightweight and flexible for building RESTful APIs efficiently.
-✅ Modular Route Handling – Organized folder structure for better scalability and maintainability.
-✅ CORS & Middleware Setup – Secure and configurable communication between frontend and backend.
-✅ Environment Configuration (.env) – Secure handling of secrets and environment-specific settings.
+✅ Flask Framework – Lightweight Python web framework perfect for building APIs
+✅ Langchain Integration – Enables Retrieval-Augmented Generation (RAG) for chatbot intelligence
+✅ OpenAI API – Powers intelligent responses for MalangBot
+✅ Modular Code Structure – Easy to maintain and scale
+✅ Environment Configuration (.env) – Keeps secrets and settings secure and organized
 
 Contributing
 1. Fork the repository
@@ -65,8 +66,7 @@ Contributing
 5. Open a Pull Request
 
 ## Languages Used
-JavaScript: 95%
-Nunjucks: 5%
+Python: 100%
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
